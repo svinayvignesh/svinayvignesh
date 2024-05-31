@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @svinayvignesh
-- 👀 I’m interested in Machine Learning and Data Analytics.
+- 👀 I’m interested in all aspects of Software Development.
 - 🌱 I’m currently learning the same as above.
 - 📫 You can reach me on svinayvignesh@gmail.com
 
