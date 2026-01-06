@@ -1,7 +1,8 @@
 # 👋 HEY, I'm Vinay
 
 ▸ UNC Charlotte grad
-⚡ Full-stack dev who speaks Java, Spring Boot, TypeScript, React, and Angular fluently
+💼 ***Hunting for full-time gigs*** (hit me up if you're hiring!)
+⚡ Full-stack dev who speaks ***Java***, ***Spring Boot***, ***TypeScript***, ***React***, and ***Angular*** fluently
 
 ---
 
@@ -9,10 +10,10 @@
 
 I build stuff that scales. From metadata platforms that make sense of chaos to portfolio websites that don't make you want to throw your computer out the window. My side projects? Everything from IoT sensors running in Spring Boot backends to campus parking systems (because finding parking shouldn't require a CS degree).
 
-- 🚀 Currently shipping full-stack apps with whatever tech stack makes sense (not just what's trendy)
-- 🏗️ Deep-diving into system design and cloud architectures (AWS doesn't scare me... much)
-- 🧮 Low-key obsessed with data engineering, metadata management, and making IoT devices do cool things
-- 🔎 On the hunt for Software Engineering, Full-Stack, or Backend roles where I can actually make an impact
+- 🚀 Currently shipping ***full-stack apps*** with whatever tech stack makes sense (not just what's trendy)
+- 🏗️ Deep-diving into ***system design*** and ***cloud architectures*** (AWS doesn't scare me... much)
+- 🧮 Low-key obsessed with ***data engineering***, ***metadata management***, and making ***IoT devices*** do cool things
+- 🔎 On the hunt for ***Software Engineering***, ***Full-Stack***, or ***Backend*** roles where I can actually make an impact
 
 ---
 
@@ -49,14 +50,14 @@ I build stuff that scales. From metadata platforms that make sense of chaos to p
 ## ⭐ Stuff I've Built (That Actually Works)
 
 ### 📊 [Metaware Hub](https://github.com/svinayvignesh/metaware-hub)
-Get Your Business Models Ready, Minus the Hassle
+***Get Your Business Models Ready, Minus the Hassle***
 - Built an enterprise metadata catalog that doesn't suck
 - Implemented glossary-to-glossary associations (because metadata relationships are complicated, okay?)
 - Created a UI that data engineers might actually enjoy using
 - Built POC features like the Metaware Insight Explorer to show what else is possible
 
 ### 🚗 [Park-EZ](https://github.com/Park-EZ/ezpark)
-Campus Parking That Doesn't Make You Want to Scream
+***Campus Parking That Doesn't Make You Want to Scream***
 - React + Node.js + MongoDB stack because it just works
 - Real-time parking availability (no more driving in circles)
 - Built with scalability in mind so it can handle actual campus traffic
@@ -67,7 +68,7 @@ Campus Parking That Doesn't Make You Want to Scream
 - [veda_portfolio](https://github.com/svinayvignesh/veda_portfolio) - Passion project: Next.js portfolio for a friend who does interior design (with 3D elements because why not)
 
 ### 🍞 [toast2host](https://github.com/svinayvignesh/toast2host)
-POC for Alumni-Type Airbnb Platform- Raspberry Pi sensor server talking to a Spring Boot backend
+***POC for Alumni-Type Airbnb Platform***- Raspberry Pi sensor server talking to a Spring Boot backend
 - Real-time data visualization with React
 - Because sometimes you just want to monitor... toasts? (Don't judge)
 
@@ -76,7 +77,7 @@ POC for Alumni-Type Airbnb Platform- Raspberry Pi sensor server talking to a Spr
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/svinayvignesh/)
-- 📧 Email: svinayvignesh@gmail.com
+- 📧 Email: vshasiofficial@gmail.com
 - 🌐 Currently building cool stuff and looking for the next challenge
 
 ---
