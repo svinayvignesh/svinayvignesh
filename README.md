@@ -1,7 +1,6 @@
 # 👋 HEY, I'm Vinay
 
 ▸ UNC Charlotte grad
-💼 ***Hunting for full-time gigs*** (hit me up if you're hiring!)
 ⚡ Full-stack dev who speaks ***Java***, ***Spring Boot***, ***TypeScript***, ***React***, and ***Angular*** fluently
 
 ---
@@ -13,7 +12,7 @@ I build stuff that scales. From metadata platforms that make sense of chaos to p
 - 🚀 Currently shipping ***full-stack apps*** with whatever tech stack makes sense (not just what's trendy)
 - 🏗️ Deep-diving into ***system design*** and ***cloud architectures*** (AWS doesn't scare me... much)
 - 🧮 Low-key obsessed with ***data engineering***, ***metadata management***, and making ***IoT devices*** do cool things
-- 🔎 On the hunt for ***Software Engineering***, ***Full-Stack***, or ***Backend*** roles where I can actually make an impact
+- 🔎 Always on the lookout for ***Software Engineering***, ***Full-Stack***, or ***Backend*** roles where I can actually make an impact
 
 ---
 
@@ -67,10 +66,15 @@ I build stuff that scales. From metadata platforms that make sense of chaos to p
 - [MiTaxAdvisor](https://github.com/svinayvignesh/mitaxadvisor) - Clean portfolio site for a tax advisor
 - [veda_portfolio](https://github.com/svinayvignesh/veda_portfolio) - Passion project: Next.js portfolio for a friend who does interior design (with 3D elements because why not)
 
-### 🍞 [toast2host](https://github.com/svinayvignesh/toast2host)
-***POC for Alumni-Type Airbnb Platform***- Raspberry Pi sensor server talking to a Spring Boot backend
-- Real-time data visualization with React
-- Because sometimes you just want to monitor... toasts? (Don't judge)
+### ✈️ [toast2host](https://github.com/svinayvignesh/toast2host)
+***Alumni-Focused Airbnb Platform***- React + TypeScript + Supabase + Strapi backend- 
+
+### 📸 [MJB Sensor Server](https://github.com/svinayvignesh/mjb-sensor-server)
+***Sensor data from Arduino Uno R4 processing and Analytics***
+- Arduino Uno R4 WiFi sensor data collection and processing
+- Real-time sensor monitoring and analytics dashboard
+- Spring Boot backend for data management
+- 
 
 ---
 
