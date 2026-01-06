@@ -1,7 +1,6 @@
 # 👋 HEY, I'm Vinay
 
 ▸ UNC Charlotte grad
-💼 ++Hunting for full-time gigs++ (hit me up if you're hiring!)
 ⚡ Full-stack dev who speaks ++Java++, ++Spring Boot++, ++TypeScript++, ++React++, and ++Angular++ fluently
 
 ---
