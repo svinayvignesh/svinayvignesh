@@ -67,8 +67,7 @@ I build stuff that scales. From metadata platforms that make sense of chaos to p
 - [veda_portfolio](https://github.com/svinayvignesh/veda_portfolio) - Passion project: Next.js portfolio for a friend who does interior design (with 3D elements because why not)
 
 ### 🍞 [toast2host](https://github.com/svinayvignesh/toast2host)
-++IoT Meets Spring Boot (Yes, Really)++
-- Raspberry Pi sensor server talking to a Spring Boot backend
+++POC for Alumni-Type Airbnb Platform++- Raspberry Pi sensor server talking to a Spring Boot backend
 - Real-time data visualization with React
 - Because sometimes you just want to monitor... toasts? (Don't judge)
 
