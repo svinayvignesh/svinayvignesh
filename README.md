@@ -63,7 +63,8 @@ I build stuff that scales. From metadata platforms that make sense of chaos to p
 - Made finding a parking spot less painful than a root canal
 
 ### 🎨 Portfolio Websites (Because Everyone Needs One)
-- [MiTaxAdvisor](https://github.com/svinayvignesh/mitaxadvisor) - Clean portfolio site for a tax advisor
+- [Vishal Shasi Portfolio](https://github.com/svinayvignesh/vishal_portfolio) - Portfolio for a Process Engineer (got me working with the performance & rendering of 3D & 2D models). Hosted at [vishalshasi.work](https://www.vishalshasi.work)
+- [MiTaxAdvisor](https://github.com/svinayvignesh/mitaxadvisor) - Clean portfolio site for a tax advisor. Hosted at [mitaxadvisor.com](https://www.mitaxadvisor.com)
 - [veda_portfolio](https://github.com/svinayvignesh/veda_portfolio) - Passion project: Next.js portfolio for a friend who does interior design (with 3D elements because why not)
 
 ### ✈️ [toast2host](https://github.com/svinayvignesh/toast2host)
